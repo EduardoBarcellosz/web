@@ -1,12 +1,11 @@
 import Image from 'next/image'
-import cooper from '../../assets/Medal-cooper.svg'
-import gold from '../../assets/Medal-gold.svg'
-import silver from '../../assets/Medal-silver.svg'
+import cooper from '../../../assets/Medal-cooper.svg'
+import gold from '../../../assets/Medal-gold.svg'
+import silver from '../../../assets/Medal-silver.svg'
 
 export function Ranking() {
   return (
     <div className="w-full max-w-[440px] space-y-5">
-      
       <h2 className="text-gray-200 text-xl font-heading font-semibold leading-none">
         Ranking de indicações
       </h2>
