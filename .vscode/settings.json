@@ -12,5 +12,20 @@
   "editor.codeActionsOnSave": {
       "source.organizeImports.biome": "explicit"
   },
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#9d35fd",
+    "activityBar.background": "#9d35fd",
+    "titleBar.activeBackground": "#8403fc",
+    "titleBar.inactiveBackground": "#8403fc99",
+    "sash.hoverBorder": "#9d35fd",
+    "activityBarBadge.background": "#fd9422",
+    "activityBarBadge.foreground": "#15202b",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "commandCenter.border": "#e7e7e799",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#8403fc"
 }
